@@ -1,3 +1,3 @@
-### The Data Signal
+### Grain of Data
 
-Codes that are used for the newsletter: https:/[/datasignal.substack.com/](https://datasignal.substack.com)
+Codes that are used for the newsletter: https:/[/www.grainofdata.com/](https://www.grainofdata.com)
